@@ -35,17 +35,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **FitTrack Pro** | Full-stack fitness tracker with AI Coach, PWA & analytics | React · TS · Node · Prisma |
-| **CryptoPredict** | Crypto price forecasting app with an LSTM model | FastAPI · React · TensorFlow |
-| **IO Maliyet Pro** | Desktop cost-calculation app | Electron |
-| **Blog CMS** | OOP blog platform with REST API & auth | PHP · PDO |
-
----
-
 
 ### 📫 Let's connect
 
